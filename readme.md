@@ -4,13 +4,12 @@
 
 ![Preview](https://raw.githubusercontent.com/raphamorim/firefox-offline-game/gh-pages/images/card.jpg)
 
-## The Goal
-
-[x] Make a Chromium T-Rex game witch is supported in Firefox Browser :)
+##Goal
+Make an extension for firefox.
 
 ## Credits
 
-Thanks [Raphael Eckhardt](https://github.com/Raphseck) for the illustration :)
+Thanks Raphael Amorim
 
 ## License & Source
 
